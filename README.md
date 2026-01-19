@@ -1,4 +1,4 @@
-# Noorulain's Portfolio
+# My Portfolio
 
 A fully animated, interactive 3D developer portfolio designed to showcase skills and projects. Built with production-level code, scroll-based animations, and real-world best practices.
 
