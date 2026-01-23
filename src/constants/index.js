@@ -192,7 +192,6 @@ export const projects = [
 
 export const socials = [
   { name: "LinkedIn", href: "https://www.linkedin.com/in/noorulain-fatima-nf/" },
-  { name: "GitHub", href: "https://github.com/noorulannfatima" },
   { name: "Discord", href: "https://discord.com/users/1289485039658205266" },
 ];
 
